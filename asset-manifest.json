@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rest_countries/static/css/main.0d6a8ba2.css",
+    "main.js": "/rest_countries/static/js/main.9b444671.js",
+    "static/js/787.e93716af.chunk.js": "/rest_countries/static/js/787.e93716af.chunk.js",
+    "static/media/NunitoSans-Light.ttf": "/rest_countries/static/media/NunitoSans-Light.8fde328cad4b7fd03bcd.ttf",
+    "static/media/NunitoSans-Black.ttf": "/rest_countries/static/media/NunitoSans-Black.b6a9ed3db8aa0a3a38d6.ttf",
+    "static/media/NunitoSans-SemiBold.ttf": "/rest_countries/static/media/NunitoSans-SemiBold.97020b1bfe8c41a3bd4e.ttf",
+    "index.html": "/rest_countries/index.html",
+    "main.0d6a8ba2.css.map": "/rest_countries/static/css/main.0d6a8ba2.css.map",
+    "main.9b444671.js.map": "/rest_countries/static/js/main.9b444671.js.map",
+    "787.e93716af.chunk.js.map": "/rest_countries/static/js/787.e93716af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6a8ba2.css",
+    "static/js/main.9b444671.js"
+  ]
+}
